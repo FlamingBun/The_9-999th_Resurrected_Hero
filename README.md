@@ -18,6 +18,7 @@
   - 팀원별 책임 파트, 특히 UI 구조 최적화
 
 - **시연 영상**
+<br>
 [![Video Label](http://img.youtube.com/vi/yomrICic4Ng/0.jpg)](https://youtu.be/yomrICic4Ng)
 
 - **기술 스택**  

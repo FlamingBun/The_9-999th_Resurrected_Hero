@@ -1,5 +1,4 @@
 # The_9-999th_Resurrected_Hero
-# Infinite-power
 
 <img width="1584" height="1125" alt="projectcover" src="https://github.com/user-attachments/assets/f7893e09-d5fe-43b7-b7c1-d2a3558063f1" />
 

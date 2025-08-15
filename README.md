@@ -1,9 +1,9 @@
-# The_9-999th_Resurrected_Hero
+# The_9999th_Resurrected_Hero
 
 <img width="1584" height="1125" alt="projectcover" src="https://github.com/user-attachments/assets/f7893e09-d5fe-43b7-b7c1-d2a3558063f1" />
 
 2D 로그라이크 Unity 프로젝트 (2022.3.17f1)  
-**Infinite-power**는 절차적 맵 생성, 플레이어 FSM, 적 AI, NPC, UI, SO 데이터 구조 등  
+**The_9999th_Resurrected_Hero**는 절차적 맵 생성, 플레이어 FSM, 적 AI, NPC, UI, SO 데이터 구조 등  
 핵심 시스템을 모두 포함하는 팀 기반 로그라이크 RPG입니다.
 
 ---
